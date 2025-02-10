@@ -1,0 +1,28 @@
++------------------+
+|      User        |
++------------------+
+| userId: "U123"  |
+| name: "Alice"   |
+| email: "alice@example.com" |
+| password: "pass123" |
++------------------+
+
++------------------+
+|      Video       |
++------------------+
+| videoId: "V456" |
+| title: "Inception" |
+| genre: "Sci-Fi"  |
+| duration: 148    |
+| rating: 8.8      |
++------------------+
+
++------------------+
+|   Subscription    |
++------------------+
+| subscriptionId: "S789" |
+| userId: "U123"  |
+| plan: "Premium"  |
+| startDate: "2023-01-01" |
+| endDate: "2024-01-01" |
++------------------+
