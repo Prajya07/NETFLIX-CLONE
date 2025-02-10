@@ -1,0 +1,25 @@
+[Start]
+   |
+   v
+[User  Registration]
+   |
+   v
+[Login]
+   |
+   v
+[Browse Videos]
+   |
+   v
+[Select Video]
+   |
+   v
+[Play Video]
+   |
+   v
+[Pause/Stop]
+   |
+   v
+[Logout]
+   |
+   v
+[End]
