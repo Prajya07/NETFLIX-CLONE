@@ -1,0 +1,6 @@
+User  -> Netflix Clone: login()
+Netflix Clone -> User: displayHomePage()
+User  -> Netflix Clone: selectVideo(videoId)
+Netflix Clone -> Video: play()
+Video -> User: streaming()
+User  -> Video: pause()
