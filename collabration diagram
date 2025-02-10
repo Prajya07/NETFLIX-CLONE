@@ -1,0 +1,3 @@
+[User ] --(1)--> [Netflix Clone]
+[Netflix Clone] --(2)--> [Video]
+[Video] --(3)--> [Recommendation]
