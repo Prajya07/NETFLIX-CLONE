@@ -1,0 +1,49 @@
++------------------+
+|      User        |
++------------------+
+| - userId: String |
+| - name: String   |
+| - email: String  |
+| - password: String|
++------------------+
+| + login()        |
+| + logout()       |
+| + updateProfile()|
++------------------+
+
++------------------+
+|      Video       |
++------------------+
+| - videoId: String|
+| - title: String  |
+| - genre: String  |
+| - duration: int   |
+| - rating: float   |
++------------------+
+| + play()         |
+| + pause()        |
+| + stop()         |
++------------------+
+
++------------------+
+|   Subscription    |
++------------------+
+| - subscriptionId: String|
+| - userId: String  |
+| - plan: String     |
+| - startDate: Date |
+| - endDate: Date   |
++------------------+
+| + renew()         |
+| + cancel()        |
++------------------+
+
++------------------+
+|   Recommendation  |
++------------------+
+| - userId: String  |
+| - videoId: String |
+| - score: float    |
++------------------+
+| + generate()      |
++------------------+
