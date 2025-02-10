@@ -1,0 +1,25 @@
++------------------+
+|   User Interface  |
++------------------+
+| - Login          |
+| - Browse         |
+| - Play           |
++------------------+
+        |
+        |
++------------------+
+|   Application     |
++------------------+
+| - User Management |
+| - Video Streaming  |
+| - Recommendation   |
++------------------+
+        |
+        |
++------------------+
+|   Database        |
++------------------+
+| - User Data      |
+| - Video Data     |
+| - Subscription Data|
++------------------+
